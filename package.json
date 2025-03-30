@@ -1,0 +1,21 @@
+{
+  "name": "ds-temas",
+  "displayName": "DS Temas",
+  "description": "Temas desenvolvidos com base nas cores preferenciais dos alunos do curso de Desenvolvimento de Sistemas de Valinhos",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.98.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "DS Temas",
+        "uiTheme": "vs-dark",
+        "path": "./themes/DS Temas-color-theme.json"
+      }
+    ]
+  }
+}
