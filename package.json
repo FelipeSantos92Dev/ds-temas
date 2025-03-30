@@ -3,12 +3,27 @@
   "displayName": "DS Temas",
   "description": "Temas desenvolvidos com base nas cores preferenciais dos alunos do curso de Desenvolvimento de Sistemas de Valinhos",
   "version": "0.0.1",
+  "publisher": "FelipeSantos92Dev",
+  "author": {
+    "name": "Felipe Santos"
+  },
   "engines": {
     "vscode": "^1.98.0"
   },
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "theme",
+    "dark theme",
+    "black",
+    "all black"
+  ],
+  "icon": "images/ds-temas.png",
+  "galleryBanner": {
+    "color": "#1E1E1E",
+    "theme": "dark"
+  },
   "contributes": {
     "themes": [
       {
@@ -17,5 +32,11 @@
         "path": "./themes/DS Temas-color-theme.json"
       }
     ]
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FelipeSantos92Dev/ds-temas"
+  },
+  "homepage": "https://github.com/FelipeSantos92Dev/ds-temas/blob/main/README.md",
+  "license": "MIT"
 }
