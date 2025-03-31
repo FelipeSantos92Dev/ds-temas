@@ -27,9 +27,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "DS Temas",
+        "label": "Void",
         "uiTheme": "vs-dark",
         "path": "./themes/DS Temas-color-theme.json"
+      },
+      {
+        "label": "Caio",
+        "uiTheme": "vs",
+        "path": "./themes/DS caio-color-theme.json"
       }
     ]
   },
