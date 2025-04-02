@@ -32,9 +32,14 @@
         "path": "./themes/DS Temas-color-theme.json"
       },
       {
-        "label": "Caio",
+        "label": "Caio - Santos Home",
         "uiTheme": "vs",
         "path": "./themes/DS caio-color-theme.json"
+      },
+      {
+        "label": "Giovanni - Palmeiras Home",
+        "uiTheme": "vs",
+        "path": "./themes/DS giovanni-color-theme.json"
       }
     ]
   },
