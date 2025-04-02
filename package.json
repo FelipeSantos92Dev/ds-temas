@@ -40,6 +40,11 @@
         "label": "Giovanni - Palmeiras Home",
         "uiTheme": "vs",
         "path": "./themes/DS giovanni-color-theme.json"
+      },
+      {
+        "label": "Giovanni - Palmeiras Away",
+        "uiTheme": "vs",
+        "path": "./themes/DS giovanni-away-color-theme.json"
       }
     ]
   },
