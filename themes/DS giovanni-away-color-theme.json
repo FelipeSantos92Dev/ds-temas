@@ -7,20 +7,20 @@
   // Cores principais baseadas no uniforme do Santos
 
   "colors": {
-    // Base UI Colors
-    "activityBar.activeBackground": "#E6F5E633",
-    "activityBar.activeBorder": "#00A650",
-    "activityBar.background": "#FFFFFF",
-    "activityBar.border": "#E6F5E6",
-    "activityBar.dropBorder": "#00A65033",
-    "activityBar.foreground": "#00A650",
-    "activityBar.inactiveForeground": "#87BE8A",
-    "activityBarBadge.background": "#00A650",
-    "activityBarBadge.foreground": "#FFFFFF",
-    "activityBarTop.activeBorder": "#00A650",
-    "activityBarTop.dropBorder": "#00A65033",
-    "activityBarTop.foreground": "#00A650",
-    "activityBarTop.inactiveForeground": "#87BE8A",
+    // Base UI Colors - Barra lateral com ícones agora em verde escuro
+    "activityBar.activeBackground": "#008542",
+    "activityBar.activeBorder": "#FFFFFF",
+    "activityBar.background": "#00A650",
+    "activityBar.border": "#008542",
+    "activityBar.dropBorder": "#FFFFFF33",
+    "activityBar.foreground": "#FFFFFF",
+    "activityBar.inactiveForeground": "#FFFFFFAA",
+    "activityBarBadge.background": "#FFFFFF",
+    "activityBarBadge.foreground": "#008542",
+    "activityBarTop.activeBorder": "#FFFFFF",
+    "activityBarTop.dropBorder": "#FFFFFF33",
+    "activityBarTop.foreground": "#FFFFFF",
+    "activityBarTop.inactiveForeground": "#FFFFFFAA",
 
     // Badge & Button
     "badge.background": "#00A650",
@@ -48,11 +48,11 @@
 
     // UI Elements
     "checkbox.foreground": "#00A650",
-    "commandCenter.activeBackground": "#E6F5E660",
-    "commandCenter.activeForeground": "#00A65090",
-    "commandCenter.background": "#F5FAF5",
-    "commandCenter.border": "#E6F5E6",
-    "commandCenter.foreground": "#00A650",
+    "commandCenter.activeBackground": "#008542",
+    "commandCenter.activeForeground": "#FFFFFF",
+    "commandCenter.background": "#00A650", // Barra superior em verde escuro
+    "commandCenter.border": "#008542",
+    "commandCenter.foreground": "#FFFFFF",
     "contrastActiveBorder": "#00000000",
     "contrastBorder": "#00000000",
 
@@ -353,7 +353,7 @@
     "settings.modifiedItemIndicator": "#00A650",
 
     // Sidebar
-    "sideBar.background": "#F5FAF5",
+    "sideBar.background": "#F5FAF5", // Mantendo a barra de lista de arquivos
     "sideBar.border": "#E6F5E6",
     "sideBar.foreground": "#00A650",
     "sideBarSectionHeader.background": "#F5FAF5",
@@ -363,29 +363,29 @@
     "sideBarStickyScroll.shadow": "#00000033",
     "sideBarTitle.foreground": "#00A650",
 
-    // Status Bar
-    "statusBar.background": "#FFFFFF",
-    "statusBar.border": "#E6F5E6",
-    "statusBar.debuggingBackground": "#E6F5E6",
-    "statusBar.debuggingForeground": "#00A650",
-    "statusBar.foreground": "#00A650",
-    "statusBar.noFolderBackground": "#FFFFFF",
-    "statusBar.noFolderBorder": "#E6F5E6",
-    "statusBar.noFolderForeground": "#00A650",
-    "statusBarItem.activeBackground": "#E6F5E6",
-    "statusBarItem.compactHoverBackground": "#C9E6CA",
+    // Status Bar - Barra inferior agora em verde escuro
+    "statusBar.background": "#00A650",
+    "statusBar.border": "#008542",
+    "statusBar.debuggingBackground": "#008542",
+    "statusBar.debuggingForeground": "#FFFFFF",
+    "statusBar.foreground": "#FFFFFF",
+    "statusBar.noFolderBackground": "#00A650",
+    "statusBar.noFolderBorder": "#008542",
+    "statusBar.noFolderForeground": "#FFFFFF",
+    "statusBarItem.activeBackground": "#008542",
+    "statusBarItem.compactHoverBackground": "#008542",
     "statusBarItem.errorBackground": "#d62c2c",
     "statusBarItem.errorForeground": "#FFFFFF",
     "statusBarItem.errorHoverBackground": "#da4141",
     "statusBarItem.errorHoverForeground": "#FFFFFF",
-    "statusBarItem.hoverBackground": "#E6F5E6",
-    "statusBarItem.hoverForeground": "#00A650",
+    "statusBarItem.hoverBackground": "#008542",
+    "statusBarItem.hoverForeground": "#FFFFFF",
     "statusBarItem.offlineBackground": "#e66dff",
     "statusBarItem.offlineForeground": "#FFFFFF",
     "statusBarItem.offlineHoverBackground": "#ea87ff",
-    "statusBarItem.prominentBackground": "#F0F9F0",
-    "statusBarItem.prominentForeground": "#00A650",
-    "statusBarItem.prominentHoverBackground": "#E6F5E6",
+    "statusBarItem.prominentBackground": "#008542",
+    "statusBarItem.prominentForeground": "#FFFFFF",
+    "statusBarItem.prominentHoverBackground": "#009E53",
     "statusBarItem.remoteBackground": "#14e5d4",
     "statusBarItem.remoteForeground": "#000000",
     "statusBarItem.remoteHoverBackground": "#26ecdc",
@@ -393,7 +393,7 @@
     "statusBarItem.warningBackground": "#ffb638",
     "statusBarItem.warningForeground": "#000000",
     "statusBarItem.warningHoverBackground": "#ffbf51",
-    "statusBarItem.warningHoverForeground": "#00A650",
+    "statusBarItem.warningHoverForeground": "#000000",
 
     // Tabs
     "tab.activeBackground": "#FFFFFF",
@@ -444,12 +444,12 @@
     "textPreformat.foreground": "#00A650",
     "textSeparator.foreground": "#00A650",
 
-    // Title Bar
-    "titleBar.activeBackground": "#F5FAF5",
-    "titleBar.activeForeground": "#00A650",
-    "titleBar.border": "#E6F5E6",
-    "titleBar.inactiveBackground": "#F5FAF5",
-    "titleBar.inactiveForeground": "#00A650AA",
+    // Title Bar - Barra do título agora em verde escuro
+    "titleBar.activeBackground": "#00A650",
+    "titleBar.activeForeground": "#FFFFFF",
+    "titleBar.border": "#008542",
+    "titleBar.inactiveBackground": "#00A650",
+    "titleBar.inactiveForeground": "#FFFFFFAA",
 
     // Misc
     "toolbar.hoverBackground": "#E6F5E699",
