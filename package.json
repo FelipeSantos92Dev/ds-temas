@@ -37,8 +37,13 @@
         "path": "./themes/DS caio-color-theme.json"
       },
       {
-        "label": "Giovanni - Palmeiras Home",
+        "label": "Bernardo - Santos Away",
         "uiTheme": "vs",
+        "path": "./themes/DS bernardo-color-theme.json"
+      },
+      {
+        "label": "Giovanni - Palmeiras Home",
+        "uiTheme": "vs-dark",
         "path": "./themes/DS giovanni-color-theme.json"
       },
       {
