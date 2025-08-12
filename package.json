@@ -42,6 +42,11 @@
         "path": "./themes/DS bernardo-color-theme.json"
       },
       {
+        "label": "Bernardo - Dark",
+        "uiTheme": "vs",
+        "path": "./themes/DS bernardo-dark-color-theme.json"
+      },
+      {
         "label": "Giovanni - Palmeiras Home",
         "uiTheme": "vs-dark",
         "path": "./themes/DS giovanni-color-theme.json"
