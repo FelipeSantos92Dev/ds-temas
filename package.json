@@ -50,6 +50,11 @@
         "label": "Giovanni - Palmeiras Away",
         "uiTheme": "vs",
         "path": "./themes/DS giovanni-away-color-theme.json"
+      },
+      {
+        "label": "Kevin Nino",
+        "uiTheme": "vs",
+        "path": "./themes/DS kevin-away-color-theme.json"
       }
     ]
   },
