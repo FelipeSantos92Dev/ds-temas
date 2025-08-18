@@ -60,6 +60,11 @@
         "label": "Kevin Nino",
         "uiTheme": "vs",
         "path": "./themes/DS kevin-color-theme.json"
+      },
+      {
+        "label": "Jennifer SPFC",
+        "uiTheme": "vs",
+        "path": "./themes/DS jennifer-dark-color-theme.json"
       }
     ]
   },
