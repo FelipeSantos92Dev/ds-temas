@@ -43,12 +43,12 @@
       },
       {
         "label": "Bernardo - Dark",
-        "uiTheme": "vs",
+        "uiTheme": "vs-dark",
         "path": "./themes/DS bernardo-dark-color-theme.json"
       },
       {
         "label": "Giovanni - Palmeiras Home",
-        "uiTheme": "vs-dark",
+        "uiTheme": "vs",
         "path": "./themes/DS giovanni-color-theme.json"
       },
       {
@@ -63,13 +63,18 @@
       },
       {
         "label": "Jennifer SPFC",
-        "uiTheme": "vs",
+        "uiTheme": "vs-dark",
         "path": "./themes/DS jennifer-dark-color-theme.json"
       },
       {
         "label": "Flavia",
         "uiTheme": "vs",
         "path": "./themes/DS flavia-color-theme.json"
+      },
+      {
+        "label": "Julia Neves",
+        "uiTheme": "vs-dark",
+        "path": "./themes/DS julia-dark-color-theme.json"
       }
     ]
   },
